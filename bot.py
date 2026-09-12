@@ -1,9 +1,9 @@
 import smtplib
 from email.mime.text import MIMEText
 
-sender_email = "annaannu2006@gmail.com"
-receiver_email = "24cs204@mgits.ac.in"
-app_password = "jdjb nyrb mgpe jgza"
+sender_email = ""
+receiver_email =""
+app_password = ""
 
 message = """
 Good Morning NIYA!
